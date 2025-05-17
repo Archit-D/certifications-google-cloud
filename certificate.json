@@ -1,0 +1,26 @@
+{
+  "certificate": {
+    "title": "Google Cloud Certified – Professional Cloud Architect",
+    "issued_to": "Archit D",
+    "credential_id": "BBYOTM",
+    "issuer": "Google Cloud",
+    "issue_date": "2021-12-14",
+    "expiration_date": "2023-12-14",
+    "status": "Previously Active",
+    "verification_url": "https://github.com/Archit-D/certifications-google-cloud",
+    "skills_validated": [
+      "Designing secure and scalable cloud architectures",
+      "Managing and provisioning cloud infrastructure",
+      "Ensuring compliance and security",
+      "Architecting for business continuity",
+      "Optimizing performance and operations"
+    ],
+    "metadata_generated": "2025-05-17T12:00:00Z",
+    "format": "digital",
+    "source_repository": "GitHub",
+    "digital_signature": {
+      "hash": "b594a3d1b51d7c8f8a7dc0343a923bc2",
+      "algorithm": "SHA256"
+    }
+  }
+}
